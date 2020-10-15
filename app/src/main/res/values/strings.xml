@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Filmes Populares</string>
+    <string name="default_title">title</string>
+    <string name="default_img_description">No image</string>
+    <string name="default_date">21/11/2000</string>
+    <string name="search_hint">Digite o nome de um filme</string>
+    <string name="search">Buscar</string>
+    <string name="search_icon_desc">Search icon</string>
+    <string name="movie_poster_desc">Poster do filme</string>
+    <string name="default_original_title">Original Title</string>
+    <string name="default_overview">Overview</string>
+</resources>
